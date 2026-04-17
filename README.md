@@ -10,6 +10,6 @@ Pre-requisites on the Ubuntu : #Commands to run 1)sudo apt update 2)sudo apt-get
 
 1)unzip 5586L_FUR9.0.zip 2)cd 5586L_FUR9.0
 
-Now after running the above commands you can see the modules and a readmefile , for easy and straight forward build follow instructions in readme file as is or each module contains its own readme or build instruction file ,follow each set of instructions individually
+Now after running the above commands you can see the modules and a readmefile , for easy and straight forward build follow instructions in readme file as is or each module contains its own readme or build instruction file ,follow each set of instructions individually and you can ignore errors that might showup when you run prepForBuild.sh , they are not crticial and doesn't conclude or play role in build's success.
 
 Download 5586L_FUR9.0 SourceCode Zip file here:https://d2mi77xcznxniv.cloudfront.net/index.html?file=5586L_FUR9.0.zip
