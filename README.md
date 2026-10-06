@@ -1,15 +1,22 @@
 # 5586L_FUR9.0_OpenSourceSoftware
 
-#Environment
+## Environment
+Individual build components may list different versions of Ubuntu for compilation in their respective readme / build instruction files, however, all modules here in were compiled successfully in Ubuntu 22.04 (jammy).
 
-Individual build components may list different versions of Ubuntu for compilation in their respective readme / build instruction files, however, all modules here in were compiled successfully in Ubuntu 22.04
+## Preparing the Ubuntu Environment
+Run the following commands:
+```
+sudo apt-get update
+sudo apt-get install unzip 
+```
 
-Pre-requisites on the Ubuntu : #Commands to run 1)sudo apt update 2)sudo apt-get install zip unzip
+## Build Instructions
+Run the following commands:
+```
+unzip 5586L_FUR9.0.zip
+cd 5586L_FUR9.0
+```
 
-#Build Instructions After downloading the zip file, run below commands
+After running the above commands you can see the modules and a readme. For an easy and straightforward build follow the instructions in the readme file as-is. Each module also contains its own readme or build instruction file.
 
-1)unzip 5586L_FUR9.0.zip 2)cd 5586L_FUR9.0
-
-Now after running the above commands you can see the modules and a readmefile , for easy and straight forward build follow instructions in readme file as is or each module contains its own readme or build instruction file ,follow each set of instructions individually and you can ignore errors that might showup when you run prepForBuild.sh , they are not crticial and doesn't conclude or play role in build's success.
-
-Download 5586L_FUR9.0 SourceCode Zip file here:https://d2mi77xcznxniv.cloudfront.net/index.html?file=5586L_FUR9.0.zip
+Download source archive here:https://d2mi77xcznxniv.cloudfront.net/index.html?file=5586L_FUR9.0.zip
