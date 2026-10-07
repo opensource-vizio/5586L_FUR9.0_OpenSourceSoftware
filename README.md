@@ -1,5 +1,13 @@
 # 5586L_FUR9.0_OpenSourceSoftware
 
+## Identifiers
+|Item|Value
+|---|---
+|Chipset|5586L
+|Release|FUR9.0
+|FW Versions|86.900.X.Y
+|Download Link|https://d2mi77xcznxniv.cloudfront.net/index.html?file=5586L_FUR9.0.zip
+
 ## Environment
 Individual build components may list different versions of Ubuntu for compilation in their respective readme / build instruction files, however, all modules here in were compiled successfully in Ubuntu 22.04 (jammy).
 
@@ -19,4 +27,5 @@ cd 5586L_FUR9.0
 
 After running the above commands you can see the modules and a readme. For an easy and straightforward build follow the instructions in the readme file as-is. Each module also contains its own readme or build instruction file.
 
-Download source archive here:https://d2mi77xcznxniv.cloudfront.net/index.html?file=5586L_FUR9.0.zip
+Download the source archive here:
+https://d2mi77xcznxniv.cloudfront.net/index.html?file=5586L_FUR9.0.zip
